@@ -14,7 +14,7 @@
 </h3>
 
 <div style="margin:10px",float="left">
-  <a href="https://google.com">
+  <a href="https://harpercorpus1.github.io">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="100px" />
   </a>
   <a href="https://www.linkedin.com/in/harper-corpus-a48530232">
