@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/harper-corpus-a48530232">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" />
   </a>
-  <a href="https://github.com/harpercorpus1">
+  <a href="https://github.com/harpercorpus1?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px" />
   </a>
 </div>
