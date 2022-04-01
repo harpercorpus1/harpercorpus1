@@ -4,7 +4,7 @@
 
 <div float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=harpercorpus1&count_private=true&show_icons=true&theme=radical" width="49%", vertical-align="top" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harpercorpus1&langs_count=3&layout=compact&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harpercorpus1&hide=Jupyter Notebook&langs_count=3&layout=compact&theme=radical" width="49%" />
 </div>
 
 #### My name is Harper Corpus and I'm a current Senior Computer Science Student at Clemson University. I'm from Spartanburg, SC, and am currently finishing up my last semester at Clemson planning to graduate May 2022. 
